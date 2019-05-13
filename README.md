@@ -2,7 +2,7 @@
 中英翻译的transformer模型， 这是对 [ternsorflow官方代码](https://github.com/tensorflow/models/)的少量改写
 
 使用步骤：
-1. 下载中英语料，这里提供的是计算所得数据CASICT2011的数据，放入data目录
+1. 下载中英语料，这里提供的是计算所得数据CASICT2011的数据，放入data目录。提供一个下载地址[网盘](https://pan.baidu.com/s/1GrS-hbmPRY_i_PlQczIttg),提取码：0hph
 2. 运行data_prepare.py
 3. 新建文件夹model_zhen
 4. 运行run_train.cmd或者run_train.sh
